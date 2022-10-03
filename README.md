@@ -1,4 +1,4 @@
-# HellO' I'm Kynan :smile:
+# Hello I'm Kynan :smile:
 
 **A passionate Fullstack Developper from Bretagne.**
 
