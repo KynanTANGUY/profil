@@ -9,7 +9,7 @@
 **Last project : [Karre-Auto](https://karre-auto.surge.sh/) as a React Developper, teaming up with back-end Devs.**
 **Stack : React, Redux, Express, NodeJS, PostregreSQL, Axios.**
 
-**_I'm current learning ~~PHP~~ FastAPI for my future job._**
+**_I'm current learning ~~Laravel~~ FastAPI for my future job._**
 
 ## Technologie
 
