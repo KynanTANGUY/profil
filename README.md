@@ -2,7 +2,7 @@
 
 **A passionate Fullstack Developper from Bretagne.**
 
-[Voici mon Portfolio !](http://kynan-tanguy.com/)
+[Here is my Portfolio !](http://kynan-tanguy.com/)
 
 **My current side-project is an app around the universe of league of legends.**
 
