@@ -11,7 +11,7 @@
 
 **_I'm current learning ~~Laravel~~ FastAPI for my future job._**
 
-## Technologie
+## Technology
 
 ### Web
 * HTML
